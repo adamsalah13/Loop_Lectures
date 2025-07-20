@@ -1,5 +1,3 @@
-# 1. Lecture Notes
-
 # Lecture: Using Diverse Mermaid Diagrams for Software Design & Development
 
 ---
